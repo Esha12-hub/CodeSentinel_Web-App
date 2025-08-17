@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+streamlit
+torch
+torchvision
+Pillow
+=======
+streamlit
+torch
+torchvision
+Pillow
+>>>>>>> 276e653 (Initial commit)
